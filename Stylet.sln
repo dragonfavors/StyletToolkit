@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29021.104
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StyletUnitTests", "StyletUnitTests\StyletUnitTests.csproj", "{13AFA20D-CCEA-4A58-920E-4D8816C7296B}"
 EndProject
@@ -12,6 +12,22 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StyletTemplates", "StyletTemplates\StyletTemplates.csproj", "{A8BD4AB7-6F0E-4CDA-B41B-E8A8104038B8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Company.StyletApplication1", "StyletTemplates\templates\StyletApplication-CSharp\Company.StyletApplication1.csproj", "{182059BC-637B-465C-B812-70406FBDA9CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "etc", "etc", "{66F32E16-A189-47CC-9428-731C93A16238}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		CHANGELOG.txt = CHANGELOG.txt
+		CodeMaid.config = CodeMaid.config
+		LICENSE.txt = LICENSE.txt
+		Rakefile = Rakefile
+		README.md = README.md
+		Settings.XamlStyler = Settings.XamlStyler
+		Stylet.sln.DotSettings = Stylet.sln.DotSettings
+		StyletIcon.png = StyletIcon.png
+		StyletIcon.svg = StyletIcon.svg
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
