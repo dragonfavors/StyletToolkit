@@ -6,7 +6,7 @@
     <UseWpf>true</UseWpf>
     <IsPackable>false</IsPackable>
 
-    <Copyright>Copyright © 2014 Antony Male</Copyright>
+    <Copyright>Copyright © 2014 Antony Male, 2023 YongTaek Oh</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
